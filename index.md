@@ -7,7 +7,7 @@
 ### GreenGrade - Fuzzy Analysis of Company Sustainability/ESG Reports (2024)
 [GreenGrade](https://github.com/KOL305/GreenGrade) [[Demo Video]](https://drive.google.com/file/d/144YSIiQVfv4mO7qh6bYnb1NyxOYBt7jo/view?usp=sharing)
 <br>
-  <img src="images/prog-project-img/greengrade-form.png" style="width:50%"/> <img src="images/prog-project-img/greengrade-company.png" style="width:50%"/>
+  <img src="images/prog-project-img/greengrade-form.png" style="width:40%"/> <img src="images/prog-project-img/greengrade-company.png" style="width:40%"/>
 <br>
 For the 2024 Google Gemini API Competition, used fuzzy logic to determine a company's sustainability interval index, using a customizable set of parameters, given data from sustainability and ESG reports scraped manually or through the Gemini API. Through a mobile app, outputs a score and breakdown analysis, aiming to allow policymakers to determine a company's true sustainability through a mathematical and algorithmic process. Users can view all their logged companies through a dashboard, allowing for easy comparison between companies.
 
