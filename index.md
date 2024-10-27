@@ -24,8 +24,8 @@ For the 2023 Congressional App Challenge, built a web application designed to he
 ### Overhaul - Educating Gamers About Overfishing Through a Fishery Management Sim (2023)
 [Overhaul](https://github.com/KOL305/overhaul)
 <br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+  <img src="images/prog-project-img/overhaul-oilspillage.png" style="width:40%"/> <img src="images/prog-project-img/overhaul-summary.png" style="width:40%"/>
+<br>
 For the 2023 San Ramon Hackathon (3rd Place Winner), developed a web-based fishery simulator that taught players the dangers and causes of overfishing through managing their own fishery. Random in-game events, such as rapid eutrophication, would cause players to decide between overfishing their pond or being unable to pay rent. Instructional messages accompanied events to reinforce the learning experience.
 
 ---
