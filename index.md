@@ -6,14 +6,15 @@
 
 ### GreenGrade - Fuzzy Analysis of Company Sustainability/ESG Reports (2024)
 [GreenGrade](https://github.com/KOL305/GreenGrade)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/prog-project-img/smartgen-dashboard"/>
 
 For the 2024 Google Gemini API Competition, used fuzzy logic to determine a company's sustainability interval index, using a customizable set of parameters, given data from sustainability and ESG reports scraped manually or through the Gemini API. Through a mobile app, outputs a score and breakdown analysis, aiming to allow policymakers to determine a company's true sustainability through a mathematical and algorithmic process. Users can view all their logged companies through a dashboard, allowing for easy comparison between companies.
 
 ---
 ### SmartGen - Optimization of Home Electricity Usage and Consumption (2023)
 [SmartGen Machine Learning](https://github.com/KOL305/smart-gen) [[Demo Video]](https://youtu.be/Aekci3r5V8A?si=KYZFIJLS2oHUSIPP)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/prog-project-img/smartgen-dashboard"/>
+<img src="images/prog-project-img/smartgen-comparison"/>
 
 For the 2023 Congressional App Challenge, built a web application designed to help homeowners reduce energy usage by informing users of their energy generation and consumption patterns. Users can see daily energy usage and consumption statistics on their dashboard, using LightGBM Gradient-boosting Decision Trees to make regression predictions to help users see predicted energy usage. OpenAI GPT 3.5 Turbo generates energy-saving recommendations tailored to the user's energy usage distribution, and homeowners can see predicted energy-saving statistics to continue being mindful of their energy consumption.
 
