@@ -13,8 +13,8 @@ For the 2024 Google Gemini API Competition, used fuzzy logic to determine a comp
 ---
 ### SmartGen - Optimization of Home Electricity Usage and Consumption (2023)
 [SmartGen Machine Learning](https://github.com/KOL305/smart-gen) [[Demo Video]](https://youtu.be/Aekci3r5V8A?si=KYZFIJLS2oHUSIPP)
-<img src="images/prog-project-img/smartgen-dashboard"/>
-<img src="images/prog-project-img/smartgen-comparison"/>
+<img src="images/prog-project-img/smartgen-dashboard.png"/>
+<img src="images/prog-project-img/smartgen-comparison.png"/>
 
 For the 2023 Congressional App Challenge, built a web application designed to help homeowners reduce energy usage by informing users of their energy generation and consumption patterns. Users can see daily energy usage and consumption statistics on their dashboard, using LightGBM Gradient-boosting Decision Trees to make regression predictions to help users see predicted energy usage. OpenAI GPT 3.5 Turbo generates energy-saving recommendations tailored to the user's energy usage distribution, and homeowners can see predicted energy-saving statistics to continue being mindful of their energy consumption.
 
