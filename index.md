@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/243c3628-fe36-4d3a-ae94-dd2b40580e2a)# Portfolio
+# Programming Projects Portfolio
 
 ---
 
