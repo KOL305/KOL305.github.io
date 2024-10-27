@@ -5,7 +5,7 @@
 ## Sustainability/Environment Projects
 
 ### GreenGrade - Fuzzy Analysis of Company Sustainability/ESG Reports (2024)
-[GreenGrade](https://github.com/KOL305/GreenGrade)
+[GreenGrade](https://github.com/KOL305/GreenGrade) [[Demo Video]](https://drive.google.com/file/d/144YSIiQVfv4mO7qh6bYnb1NyxOYBt7jo/view?usp=sharing)
 <img src="images/prog-project-img/smartgen-dashboard"/>
 
 For the 2024 Google Gemini API Competition, used fuzzy logic to determine a company's sustainability interval index, using a customizable set of parameters, given data from sustainability and ESG reports scraped manually or through the Gemini API. Through a mobile app, outputs a score and breakdown analysis, aiming to allow policymakers to determine a company's true sustainability through a mathematical and algorithmic process. Users can view all their logged companies through a dashboard, allowing for easy comparison between companies.
@@ -58,7 +58,7 @@ For the 2022 TeenTech SF Hackathon (Finalist), built a web application that enab
 
 ---
 ### Nutrimood - Making Nutrition Fun with Animated Pets (2022)
-[Nutrimood Server](https://github.com/KOL305/nutrimood-server) & [Nutrimood Mobile App](https://github.com/KOL305/nutrimood-mobile)
+[Nutrimood Server](https://github.com/KOL305/nutrimood-server) & [Nutrimood Mobile App](https://github.com/KOL305/nutrimood-mobile) [[Demo Video]](https://drive.google.com/file/d/1vtqJMKKQ9kR_QasBJNJIcKIkQYfMwH3V/view?usp=sharing)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 For the 2022 Congressional App Challenge, utilized the USDA Food Data Central to create a calorie and macronutrient tracker mobile app. Used animated sprites to reflect the dietary habits of the users, with the health and mood of the pet dependent on the calorie and nutrient intake choices of the user.
