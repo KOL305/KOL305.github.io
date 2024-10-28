@@ -60,6 +60,7 @@ For the 2022 AT&T Junior Labs Hackathon (2nd Place Winner), created a web-based 
 [Cloud Nine](https://github.com/KOL305/cloud-nine)
 <br>
 <img src="images/prog-project-img/cloudnine-sleepcalc.png" style="width:90%"/>
+<img src="images/prog-project-img/cloudnine-logger.png" style="width:90%"/>
 <img src="images/prog-project-img/cloudnine-meditation.png" style="width:90%"/>
 <br>
 For the 2022 TeenTech SF Hackathon (Finalist), built a web application that enabled users to log and track sleep patterns and sleep cycles, informing them to make better sleep decisions. Users could also access sleep help tools such as a white noise collection or drawing pad.
