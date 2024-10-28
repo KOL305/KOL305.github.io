@@ -15,7 +15,8 @@ For the 2024 Google Gemini API Competition, used fuzzy logic to determine a comp
 ### SmartGen - Optimization of Home Electricity Usage and Consumption (2023)
 [SmartGen Machine Learning](https://github.com/KOL305/smart-gen) [[Demo Video]](https://youtu.be/Aekci3r5V8A?si=KYZFIJLS2oHUSIPP)
 <br>
-<img src="images/prog-project-img/smartgen-dashboard.png" style="width:100%"/>
+<img src="images/prog-project-img/smartgen-dashboard.png" style="width:90%"/>
+<img src="images/prog-project-img/smartgen-comparison.png" style="width:90%"/>
 <br>
 For the 2023 Congressional App Challenge, built a web application designed to help homeowners reduce energy usage by informing users of their energy generation and consumption patterns. Users can see daily energy usage and consumption statistics on their dashboard, using LightGBM Gradient-boosting Decision Trees to make regression predictions to help users see predicted energy usage. OpenAI GPT 3.5 Turbo generates energy-saving recommendations tailored to the user's energy usage distribution, and homeowners can see predicted energy-saving statistics to continue being mindful of their energy consumption.
 
@@ -35,8 +36,10 @@ For the 2023 San Ramon Hackathon (3rd Place Winner), developed a web-based fishe
 ---
 ### Task Manager With Slimes - Gamifying Productivity with Customizable Avatars (2022)
 [Task Manager with Slimes](https://github.com/KOL305/task-manager-with-slimes)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+<br>
+<img src="images/prog-project-img/taskmanagerwithslimes-tasks.png" style="width:90%"/>
+<img src="images/prog-project-img/taskmanagerwithslimes-pet.png" style="width:90%"/>
+<br>
 For the 2022 San Ramon Hackathon (2nd Place Winner), created a web application that combined the features of a standard task manager (to-do list, deadlines, etc.) with a customizable slime avatar. By completing tasks, users gained coins, which were used to purchase accessories and decorations for their slimes. A dashboard displays their metrics and enables users to better understand their work patterns.
 
 ---
@@ -62,8 +65,9 @@ For the 2022 TeenTech SF Hackathon (Finalist), built a web application that enab
 ---
 ### Nutrimood - Making Nutrition Fun with Animated Pets (2022)
 [Nutrimood Server](https://github.com/KOL305/nutrimood-server) & [Nutrimood Mobile App](https://github.com/KOL305/nutrimood-mobile) [[Demo Video]](https://drive.google.com/file/d/1vtqJMKKQ9kR_QasBJNJIcKIkQYfMwH3V/view?usp=sharing)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+<br>
+  <img src="images/prog-project-img/nutrimood-dashboard.png" style="width:45%"/> <img src="images/prog-project-img/nutrimood-search.png" style="width:45%"/>
+<br>
 For the 2022 Congressional App Challenge, utilized the USDA Food Data Central to create a calorie and macronutrient tracker mobile app. Used animated sprites to reflect the dietary habits of the users, with the health and mood of the pet dependent on the calorie and nutrient intake choices of the user.
 
 ---
