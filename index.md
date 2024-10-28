@@ -1,7 +1,6 @@
 # Programming Projects Portfolio
 
 ---
----
 
 ## Sustainability/Environment Projects
 
@@ -40,9 +39,6 @@ For the 2023 San Ramon Hackathon (3rd Place Winner), developed a web-based fishe
 ---
 
 ## Productivity/Utility Projects
-
----
----
 
 ### Task Manager With Slimes - Gamifying Productivity with Customizable Avatars (2022)
 [Task Manager with Slimes](https://github.com/KOL305/task-manager-with-slimes)
