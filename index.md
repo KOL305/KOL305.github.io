@@ -18,9 +18,6 @@ For the 2024 Google Gemini API Competition, used fuzzy logic to determine a comp
 [SmartGen Machine Learning](https://github.com/KOL305/smart-gen) [[Demo Video]](https://youtu.be/Aekci3r5V8A?si=KYZFIJLS2oHUSIPP)
 <br>
 <img src="images/prog-project-img/smartgen-dashboard.png" style="width:90%"/>
-
----
-
 <img src="images/prog-project-img/smartgen-comparison.png" style="width:90%"/>
 <br>
 For the 2023 Congressional App Challenge, built a web application designed to help homeowners reduce energy usage by informing users of their energy generation and consumption patterns. Users can see daily energy usage and consumption statistics on their dashboard, using LightGBM Gradient-boosting Decision Trees to make regression predictions to help users see predicted energy usage. OpenAI GPT 3.5 Turbo generates energy-saving recommendations tailored to the user's energy usage distribution, and homeowners can see predicted energy-saving statistics to continue being mindful of their energy consumption.
@@ -54,9 +51,6 @@ For the 2022 San Ramon Hackathon (2nd Place Winner), created a web application t
 [Word Cloud](https://github.com/KOL305/word-cloud)
 <br>
 <img src="images/prog-project-img/wordcloud-python.png" style="width:90%"/>
-
----
-
 <img src="images/prog-project-img/wordcloud-javascript.png" style="width:90%"/>
 <br>
 For the 2022 AT&T Junior Labs Hackathon (2nd Place Winner), created a web-based word cloud generator GUI that gave users two options to create word clouds: client-side using custom Javascript code or server-side using the Python wordclouds library.
@@ -68,13 +62,7 @@ For the 2022 AT&T Junior Labs Hackathon (2nd Place Winner), created a web-based 
 [Cloud Nine](https://github.com/KOL305/cloud-nine)
 <br>
 <img src="images/prog-project-img/cloudnine-sleepcalculator.png" style="width:90%"/>
-
----
-
 <img src="images/prog-project-img/cloudnine-logger.png" style="width:90%"/>
-
----
-
 <img src="images/prog-project-img/cloudnine-meditation.png" style="width:90%"/>
 <br>
 For the 2022 TeenTech SF Hackathon (Finalist), built a web application that enabled users to log and track sleep patterns and sleep cycles, informing them to make better sleep decisions. Users could also access sleep help tools such as a white noise collection or drawing pad.
