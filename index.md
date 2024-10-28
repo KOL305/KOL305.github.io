@@ -70,7 +70,7 @@ For the 2022 TeenTech SF Hackathon (Finalist), built a web application that enab
 ### Nutrimood - Making Nutrition Fun with Animated Pets (2022)
 [Nutrimood Server](https://github.com/KOL305/nutrimood-server) & [Nutrimood Mobile App](https://github.com/KOL305/nutrimood-mobile) [[Demo Video]](https://drive.google.com/file/d/1vtqJMKKQ9kR_QasBJNJIcKIkQYfMwH3V/view?usp=sharing)
 <br>
-<img src="images/prog-project-img/nutrimood-pet.png" style="width:90%"/>
+<img src="images/prog-project-img/nutrimood-dashboard.png" style="width:90%"/>
 <img src="images/prog-project-img/nutrimood-search.png" style="width:90%"/>
 <br>
 For the 2022 Congressional App Challenge, utilized the USDA Food Data Central to create a calorie and macronutrient tracker mobile app. Used animated sprites to reflect the dietary habits of the users, with the health and mood of the pet dependent on the calorie and nutrient intake choices of the user.
