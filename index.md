@@ -12,6 +12,7 @@
 For the 2024 Google Gemini API Competition, used fuzzy logic to determine a company's sustainability interval index, using a customizable set of parameters, given data from sustainability and ESG reports scraped manually or through the Gemini API. Through a mobile app, outputs a score and breakdown analysis, aiming to allow policymakers to determine a company's true sustainability through a mathematical and algorithmic process. Users can view all their logged companies through a dashboard, allowing for easy comparison between companies.
 
 ---
+
 ### SmartGen - Optimization of Home Electricity Usage and Consumption (2023)
 [SmartGen Machine Learning](https://github.com/KOL305/smart-gen) [[Demo Video]](https://youtu.be/Aekci3r5V8A?si=KYZFIJLS2oHUSIPP)
 <br>
@@ -20,8 +21,8 @@ For the 2024 Google Gemini API Competition, used fuzzy logic to determine a comp
 <br>
 For the 2023 Congressional App Challenge, built a web application designed to help homeowners reduce energy usage by informing users of their energy generation and consumption patterns. Users can see daily energy usage and consumption statistics on their dashboard, using LightGBM Gradient-boosting Decision Trees to make regression predictions to help users see predicted energy usage. OpenAI GPT 3.5 Turbo generates energy-saving recommendations tailored to the user's energy usage distribution, and homeowners can see predicted energy-saving statistics to continue being mindful of their energy consumption.
 
-
 ---
+
 ### Overhaul - Educating Gamers About Overfishing Through a Fishery Management Sim (2023)
 [Overhaul](https://github.com/KOL305/overhaul)
 <br>
@@ -29,6 +30,7 @@ For the 2023 Congressional App Challenge, built a web application designed to he
 <br>
 For the 2023 San Ramon Hackathon (3rd Place Winner), developed a web-based fishery simulator that taught players the dangers and causes of overfishing through managing their own fishery. Random in-game events, such as rapid eutrophication, would cause players to decide between overfishing their pond or being unable to pay rent. Instructional messages accompanied events to reinforce the learning experience.
 
+---
 ---
 
 ## Productivity/Utility Projects
@@ -44,7 +46,6 @@ For the 2022 San Ramon Hackathon (2nd Place Winner), created a web application t
 
 ---
 
----
 ### Word Cloud - Web-based GUI for Generating Word Clouds (2022)
 [Word Cloud](https://github.com/KOL305/word-cloud)
 <br>
@@ -55,7 +56,6 @@ For the 2022 AT&T Junior Labs Hackathon (2nd Place Winner), created a web-based 
 
 ---
 
----
 ### Cloud Nine - All-in-one Web-based Sleep Cycle Tracker and Helper (2022)
 [Cloud Nine](https://github.com/KOL305/cloud-nine)
 <br>
@@ -67,7 +67,6 @@ For the 2022 TeenTech SF Hackathon (Finalist), built a web application that enab
 
 ---
 
----
 ### Nutrimood - Making Nutrition Fun with Animated Pets (2022)
 [Nutrimood Server](https://github.com/KOL305/nutrimood-server) & [Nutrimood Mobile App](https://github.com/KOL305/nutrimood-mobile) [[Demo Video]](https://drive.google.com/file/d/1vtqJMKKQ9kR_QasBJNJIcKIkQYfMwH3V/view?usp=sharing)
 <br>
@@ -78,7 +77,6 @@ For the 2022 Congressional App Challenge, utilized the USDA Food Data Central to
 
 ---
 
----
 ### GeoRepair - Platform for Community-reported Infrastructure Issues (2021)
 [GeoRepair](https://github.com/KOL305/geo-repair)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
