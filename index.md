@@ -37,7 +37,8 @@ For the 2023 San Ramon Hackathon (3rd Place Winner), developed a web-based fishe
 ### Task Manager With Slimes - Gamifying Productivity with Customizable Avatars (2022)
 [Task Manager with Slimes](https://github.com/KOL305/task-manager-with-slimes)
 <br>
-<img src="images/prog-project-img/taskmanagerwithslimes-tasks.png" style="width:49%"/> <img src="images/prog-project-img/taskmanagerwithslimes-pet.png" style="width:49%"/>
+<img src="images/prog-project-img/taskmanagerwithslimes-tasks.png" style="width:98%"/>
+<img src="images/prog-project-img/taskmanagerwithslimes-pet.png" style="width:98%"/>
 <br>
 For the 2022 San Ramon Hackathon (2nd Place Winner), created a web application that combined the features of a standard task manager (to-do list, deadlines, etc.) with a customizable slime avatar. By completing tasks, users gained coins, which were used to purchase accessories and decorations for their slimes. A dashboard displays their metrics and enables users to better understand their work patterns.
 
