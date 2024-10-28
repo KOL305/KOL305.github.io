@@ -59,7 +59,7 @@ For the 2022 AT&T Junior Labs Hackathon (2nd Place Winner), created a web-based 
 ### Cloud Nine - All-in-one Web-based Sleep Cycle Tracker and Helper (2022)
 [Cloud Nine](https://github.com/KOL305/cloud-nine)
 <br>
-<img src="images/prog-project-img/cloudnine-sleepcalc.png" style="width:90%"/>
+<img src="images/prog-project-img/cloudnine-sleepcalculator.png" style="width:90%"/>
 <img src="images/prog-project-img/cloudnine-logger.png" style="width:90%"/>
 <img src="images/prog-project-img/cloudnine-meditation.png" style="width:90%"/>
 <br>
