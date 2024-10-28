@@ -70,8 +70,8 @@ For the 2022 TeenTech SF Hackathon (Finalist), built a web application that enab
 ### Nutrimood - Making Nutrition Fun with Animated Pets (2022)
 [Nutrimood Server](https://github.com/KOL305/nutrimood-server) & [Nutrimood Mobile App](https://github.com/KOL305/nutrimood-mobile) [[Demo Video]](https://drive.google.com/file/d/1vtqJMKKQ9kR_QasBJNJIcKIkQYfMwH3V/view?usp=sharing)
 <br>
-<img src="images/prog-project-img/georepair-social.png" style="width:90%"/>
-<img src="images/prog-project-img/georepair-dashboard.png" style="width:90%"/>
+<img src="images/prog-project-img/nutrimood-pet.png" style="width:90%"/>
+<img src="images/prog-project-img/nutrimood-search.png" style="width:90%"/>
 <br>
 For the 2022 Congressional App Challenge, utilized the USDA Food Data Central to create a calorie and macronutrient tracker mobile app. Used animated sprites to reflect the dietary habits of the users, with the health and mood of the pet dependent on the calorie and nutrient intake choices of the user.
 
@@ -79,8 +79,10 @@ For the 2022 Congressional App Challenge, utilized the USDA Food Data Central to
 
 ### GeoRepair - Platform for Community-reported Infrastructure Issues (2021)
 [GeoRepair](https://github.com/KOL305/geo-repair)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+<br>
+<img src="images/prog-project-img/georepair-social.png" style="width:90%"/>
+<img src="images/prog-project-img/georepair-dashboard.png" style="width:90%"/>
+<br>
 For the 2021 YoungWonks Open Source Project, developed an application with both a web-based and mobile application that enabled users to take photos and geotag broken and damaged infrastructure around their neighborhood. A social media platform enables community members to upvote posts and leave comments, and an administrative dashboard visualizes all reported issues geographically so that authorities can create an efficient response.
 
 ---
