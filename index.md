@@ -47,8 +47,10 @@ For the 2022 San Ramon Hackathon (2nd Place Winner), created a web application t
 ---
 ### Word Cloud - Web-based GUI for Generating Word Clouds (2022)
 [Word Cloud](https://github.com/KOL305/word-cloud)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+<br>
+<img src="images/prog-project-img/wordcloud-python.png" style="width:90%"/>
+<img src="images/prog-project-img/wordcloud-javascript.png" style="width:90%"/>
+<br>
 For the 2022 AT&T Junior Labs Hackathon (2nd Place Winner), created a web-based word cloud generator GUI that gave users two options to create word clouds: client-side using custom Javascript code or server-side using the Python wordclouds library.
 
 ---
