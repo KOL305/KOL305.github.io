@@ -78,8 +78,8 @@ For the 2022 Congressional App Challenge, utilized the USDA Food Data Central to
 ### GeoRepair - Platform for Community-reported Infrastructure Issues (2021)
 [GeoRepair](https://github.com/KOL305/geo-repair)
 <br>
-<img src="images/prog-project-img/georepair-social.png" style="width:90%"/>
-<img src="images/prog-project-img/georepair-dashboard.png" style="width:90%"/>
+<img src="images/prog-project-img/georepair-social.png" style="width:45%"/>
+<img src="images/prog-project-img/georepair-dashboard.png" style="width:45%"/>
 <br>
 For the 2021 YoungWonks Open Source Project, developed an application with both a web-based and mobile application that enabled users to take photos and geotag broken and damaged infrastructure around their neighborhood. A social media platform enables community members to upvote posts and leave comments, and an administrative dashboard visualizes all reported issues geographically so that authorities can create an efficient response.
 
